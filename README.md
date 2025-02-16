@@ -1,8 +1,5 @@
 # MayurPatil_NewsApp_Assignment
-=======
-# NewsAppAssignment
-
-NewsAppAssignment Flutter project.
+================================
 
 # Description
 
@@ -11,9 +8,7 @@ It retrieves data from a remote API and presents it in a visually appealing and 
 This project is part of an assignment to demonstrate the ability to integrate APIs and implement core Android features.
 
 # Features
-Real-time News Fetching,
-Category-based Navigation such as Technology, Health, Sports, etc,
-User-friendly Interface.
+Real-time News Fetching, Category-based Navigation such as Technology, Health, Sports, etc, and User-friendly Interface.
 
 # Installation Instructions :-
 
