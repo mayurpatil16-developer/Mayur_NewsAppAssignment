@@ -1,6 +1,6 @@
-# newsapp_mayur
+# MayurPatil_NewsApp_Assignment
 =======
-# mayur_news_app
+# NewsAppAssignment
 
 NewsAppAssignment Flutter project.
 
